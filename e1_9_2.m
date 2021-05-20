@@ -1,4 +1,4 @@
-function y = e8(x);
+function y = e8(x)
     r = 400/1024;
     y_temp = 0;
     if x>0

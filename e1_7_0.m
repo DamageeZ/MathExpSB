@@ -1,4 +1,4 @@
-function y = func(x)
+function y = e1_7_0(x)
 y_temp = 0;
 if x>=0 && x<=0.5
     y_temp = 2.*x;
